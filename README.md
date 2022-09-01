@@ -1,5 +1,7 @@
 MODS ARE OPTIONAL, AND YOU CAN JOIN THE SERVER ON A VANILLA 1.19.2 CLIENT!
 
+Where I get my texture packs: https://vanillatweaks.net/picker/resource-packs/
+
 How to mod Minecraft Java:
 
 Downloading the mods:
